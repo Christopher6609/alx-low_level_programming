@@ -7,6 +7,7 @@
 int main(void)
 {
 int ch;
+ char e,q ;
  while (ch <= 'z')
    {
      if (ch == e || ch == q)
