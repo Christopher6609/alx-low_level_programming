@@ -10,11 +10,11 @@ int ch;
  char e,q ;
  while (ch <= 'z')
    {
-     if (ch == e || ch == q)
+     /*  if (ch == e || ch == q)
        {
 	 ch++;
 	 continue;
-       }
+       }*/
      putchar(ch);
      ch++;
    }
