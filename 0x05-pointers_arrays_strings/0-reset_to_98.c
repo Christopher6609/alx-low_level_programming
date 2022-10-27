@@ -1,6 +1,7 @@
 #include "main.h"
 /**
-* main - check the code
+* reset_to_98 - update the value of n to 98
+* @n: input
 * Return: Always 0
 * n returns 98
 */
