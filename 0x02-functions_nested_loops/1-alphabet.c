@@ -13,7 +13,7 @@ ch++;
 }
 _putchar('\n');
 } */
-for (ch = 'a'; c <= 'z'; c++)
+for (ch = 'a'; ch <= 'z'; ch++)
 {
 _putchar(ch);
 }
