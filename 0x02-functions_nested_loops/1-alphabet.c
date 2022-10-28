@@ -9,7 +9,7 @@ char ch;
 while (ch >= 'a' && ch <= 'z')
 {
 _putchar(ch);
-_putchar('\n');
 ch++;
 }
+_putchar('\n');
 }
