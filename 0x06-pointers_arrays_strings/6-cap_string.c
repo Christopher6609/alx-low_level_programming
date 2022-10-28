@@ -4,7 +4,7 @@
  * @str: string
  * Return: pointer to string
  */
-char *cap_string(char *)
+char *cap_string(char *str)
 {
 int i = 0;
 while (str[i])
